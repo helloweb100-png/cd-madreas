@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ciudad Maderas">
+  <defs>
+    <linearGradient id="oro" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6e2ab"/>
+      <stop offset="0.55" stop-color="#c9a24d"/>
+      <stop offset="1" stop-color="#8f6d22"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="#0d1d49"/>
+  <g fill="none" stroke="url(#oro)" stroke-width="1.6">
+    <circle cx="32" cy="34" r="25" opacity=".35"/>
+    <circle cx="32" cy="34" r="19" opacity=".55"/>
+    <circle cx="32" cy="34" r="13" opacity=".8"/>
+  </g>
+  <path d="M20 35 32 23.5 44 35v11H20z" fill="none" stroke="url(#oro)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M29 46V38h6v8" fill="none" stroke="url(#oro)" stroke-width="2.6" stroke-linejoin="round"/>
+</svg>
